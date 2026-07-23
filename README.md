@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aanujml/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aanujml/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aanujml/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aanujml/leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
