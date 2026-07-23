@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aanujml/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
