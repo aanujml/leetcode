@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/aanujml/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aanujml/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/aanujml/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aanujml/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aanujml/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aanujml/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
