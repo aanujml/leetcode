@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/aanujml/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aanujml/leetcode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/aanujml/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
+| [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/aanujml/leetcode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aanujml/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
