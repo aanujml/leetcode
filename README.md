@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aanujml/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/aanujml/leetcode/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aanujml/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/aanujml/leetcode/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
