@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aanujml/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/aanujml/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aanujml/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aanujml/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aanujml/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aanujml/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/aanujml/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aanujml/leetcode/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
