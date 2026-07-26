@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aanujml/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aanujml/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aanujml/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 ## Tree
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/aanujml/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aanujml/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
