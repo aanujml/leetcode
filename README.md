@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aanujml/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/aanujml/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aanujml/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aanujml/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/aanujml/leetcode/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/aanujml/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aanujml/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
