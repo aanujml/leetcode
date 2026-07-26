@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aanujml/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aanujml/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aanujml/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aanujml/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aanujml/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
