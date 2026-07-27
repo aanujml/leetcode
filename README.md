@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aanujml/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/aanujml/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aanujml/leetcode/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aanujml/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aanujml/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aanujml/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
