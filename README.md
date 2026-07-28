@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aanujml/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aanujml/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aanujml/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/aanujml/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aanujml/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aanujml/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
