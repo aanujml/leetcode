@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aanujml/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aanujml/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aanujml/leetcode/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -205,4 +208,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/aanujml/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aanujml/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aanujml/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
