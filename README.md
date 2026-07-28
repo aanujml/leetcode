@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aanujml/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aanujml/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aanujml/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/aanujml/leetcode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aanujml/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/aanujml/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aanujml/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/aanujml/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aanujml/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -202,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aanujml/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aanujml/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aanujml/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aanujml/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
