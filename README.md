@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aanujml/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aanujml/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aanujml/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0459-repeated-substring-pattern](https://github.com/aanujml/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aanujml/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/aanujml/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
