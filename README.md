@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aanujml/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aanujml/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aanujml/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0504-base-7](https://github.com/aanujml/leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/aanujml/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0459-repeated-substring-pattern](https://github.com/aanujml/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/aanujml/leetcode/tree/master/0504-base-7) |
 ## Depth-First Search
 |  |
 | ------- |
