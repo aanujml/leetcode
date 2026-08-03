@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/aanujml/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/aanujml/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aanujml/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aanujml/leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aanujml/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
+| [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/aanujml/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aanujml/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aanujml/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/aanujml/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/aanujml/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -266,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aanujml/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/aanujml/leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aanujml/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 ## Depth-First Search
 |  |
 | ------- |
