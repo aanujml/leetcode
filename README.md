@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aanujml/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/aanujml/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/aanujml/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/aanujml/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aanujml/leetcode/tree/master/0205-isomorphic-strings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aanujml/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/aanujml/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aanujml/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/aanujml/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aanujml/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/aanujml/leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/aanujml/leetcode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/aanujml/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aanujml/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aanujml/leetcode/tree/master/0171-excel-sheet-column-number) |
