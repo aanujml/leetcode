@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/aanujml/leetcode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/aanujml/leetcode/tree/master/0183-customers-who-never-order) |
 | [1148-article-views-i](https://github.com/aanujml/leetcode/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/aanujml/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
