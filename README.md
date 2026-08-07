@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aanujml/leetcode/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aanujml/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aanujml/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aanujml/leetcode/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/aanujml/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aanujml/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aanujml/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aanujml/leetcode/tree/master/0171-excel-sheet-column-number) |
