@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aanujml/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aanujml/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aanujml/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/aanujml/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aanujml/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aanujml/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aanujml/leetcode/tree/master/0055-jump-game) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aanujml/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aanujml/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aanujml/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/aanujml/leetcode/tree/master/0409-longest-palindrome) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aanujml/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/aanujml/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aanujml/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aanujml/leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/aanujml/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aanujml/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aanujml/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aanujml/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/aanujml/leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/aanujml/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
