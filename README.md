@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aanujml/leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aanujml/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aanujml/leetcode/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aanujml/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/aanujml/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/aanujml/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aanujml/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aanujml/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -341,14 +345,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aanujml/leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 ## Longest Common Subsequence
 |  |
