@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aanujml/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aanujml/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aanujml/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aanujml/leetcode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/aanujml/leetcode/tree/master/0257-binary-tree-paths) |
 ## Queue
 |  |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aanujml/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
