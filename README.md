@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aanujml/leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/aanujml/leetcode/tree/master/0771-jewels-and-stones) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/aanujml/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 ## Depth-First Search
 |  |
 | ------- |
