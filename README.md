@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/aanujml/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aanujml/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/aanujml/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/aanujml/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/aanujml/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aanujml/leetcode/tree/master/0771-jewels-and-stones) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/aanujml/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/aanujml/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Depth-First Search
 |  |
 | ------- |
