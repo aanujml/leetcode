@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/aanujml/leetcode/tree/master/1683-invalid-tweets) |
 | [1795-rearrange-products-table](https://github.com/aanujml/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/aanujml/leetcode/tree/master/1873-calculate-special-bonus) |
+| [1907-count-salary-categories](https://github.com/aanujml/leetcode/tree/master/1907-count-salary-categories) |
 ## Recursion
 |  |
 | ------- |
