@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/aanujml/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/aanujml/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/aanujml/leetcode/tree/master/0824-goat-latin) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aanujml/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Depth-First Search
 |  |
