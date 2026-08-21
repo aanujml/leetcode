@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aanujml/leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-shortest-completing-word](https://github.com/aanujml/leetcode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/aanujml/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aanujml/leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/aanujml/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/aanujml/leetcode/tree/master/0500-keyboard-row) |
+| [0748-shortest-completing-word](https://github.com/aanujml/leetcode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/aanujml/leetcode/tree/master/0771-jewels-and-stones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aanujml/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aanujml/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/aanujml/leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aanujml/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0748-shortest-completing-word](https://github.com/aanujml/leetcode/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/aanujml/leetcode/tree/master/0771-jewels-and-stones) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/aanujml/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
