@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aanujml/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aanujml/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/aanujml/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/aanujml/leetcode/tree/master/0767-reorganize-string) |
+| [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/aanujml/leetcode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/aanujml/leetcode/tree/master/0830-positions-of-large-groups) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aanujml/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
