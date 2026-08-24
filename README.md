@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aanujml/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aanujml/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aanujml/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 | [2396-strictly-palindromic-number](https://github.com/aanujml/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aanujml/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aanujml/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -387,12 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 ## Longest Common Subsequence
 |  |
 | ------- |
