@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/aanujml/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/aanujml/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/aanujml/leetcode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/aanujml/leetcode/tree/master/0929-unique-email-addresses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aanujml/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/aanujml/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Depth-First Search
@@ -440,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aanujml/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
