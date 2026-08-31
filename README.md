@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/aanujml/leetcode/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aanujml/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/aanujml/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/aanujml/leetcode/tree/master/1154-day-of-the-year) |
 | [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Depth-First Search
 |  |
