@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/aanujml/leetcode/tree/master/0929-unique-email-addresses) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/aanujml/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aanujml/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/aanujml/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/aanujml/leetcode/tree/master/1154-day-of-the-year) |
+| [1408-string-matching-in-an-array](https://github.com/aanujml/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1927-sum-game](https://github.com/aanujml/leetcode/tree/master/1927-sum-game) |
 ## Depth-First Search
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/aanujml/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/aanujml/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Database
 |  |
 | ------- |
