@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/aanujml/leetcode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/aanujml/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/aanujml/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/aanujml/leetcode/tree/master/0835-image-overlap) |
 | [0929-unique-email-addresses](https://github.com/aanujml/leetcode/tree/master/0929-unique-email-addresses) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aanujml/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aanujml/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aanujml/leetcode/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/aanujml/leetcode/tree/master/0835-image-overlap) |
 ## Backtracking
 |  |
 | ------- |
