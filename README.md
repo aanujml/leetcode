@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/aanujml/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/aanujml/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aanujml/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/aanujml/leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/aanujml/leetcode/tree/master/1154-day-of-the-year) |
@@ -465,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aanujml/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aanujml/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
