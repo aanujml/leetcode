@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/aanujml/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aanujml/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aanujml/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aanujml/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aanujml/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/aanujml/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aanujml/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aanujml/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aanujml/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aanujml/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1140-stone-game-ii](https://github.com/aanujml/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aanujml/leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aanujml/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aanujml/leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aanujml/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aanujml/leetcode/tree/master/1872-stone-game-viii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/aanujml/leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aanujml/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/aanujml/leetcode/tree/master/0929-unique-email-addresses) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aanujml/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aanujml/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aanujml/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/aanujml/leetcode/tree/master/3731-find-missing-elements) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aanujml/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aanujml/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/aanujml/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aanujml/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aanujml/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
